@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Q U I Z</string>
+    <string name="title_activity_play">PlayActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+</resources>
